@@ -5,7 +5,7 @@
  * @format
  */
 
-import React from 'react';
+/*import React from 'react';
 import type {PropsWithChildren} from 'react';
 import {
   SafeAreaView,
@@ -115,4 +115,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default App;
+export default App;*/
